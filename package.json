@@ -1,6 +1,6 @@
 {
   "name": "machado-starter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Starter React App to work with Crypto",
   "author": "sr.machado@gmail.com",
   "dependencies": {
